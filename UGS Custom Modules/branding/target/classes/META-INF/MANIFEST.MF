@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: com/willwinder/branding/Bundle.prope
+ rties
+OpenIDE-Module-Specification-Version: 2.0.0.2026.04.18.18.44
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Implementation-Version: 2.0-20260418
+OpenIDE-Module-Build-Version: 202604181844
+OpenIDE-Module: com.willwinder.ugs.platform.branding
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: com.willwinder
+OpenIDE-Module-Name: ugs-platform-branding
+OpenIDE-Module-Short-Description: Universal Gcode Sender Library
+OpenIDE-Module-Long-Description: Universal Gcode Sender Library
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.59
+
